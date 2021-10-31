@@ -4,7 +4,7 @@ from newspaper.api import languages
 import nltk
 nltk.download('punkt')
 
-# 단어의 빈도수를 기반으로 내림차순으로 10개의 키워드를 반환
+# 단어의 빈도수를 기반으로 10개의 키워드를 반환
 
 def get_keyword(url, language):
     article = Article(url, language = language)
