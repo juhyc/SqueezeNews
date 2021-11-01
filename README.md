@@ -5,6 +5,7 @@ A function that summarizes only the core of the article and shows it at a glance
 # Dependencies 🌏
 - [Python 3.8.2](https://www.python.org/downloads/release/python-382/)
 - [Newspaper3k 0.2.8](https://github.com/codelucas/newspaper)
+- [nltk 3.6.5](https://www.nltk.org/)
 
 # Mission Statement 📝
 The ‘SqueezeNews’ project develops open-source software for extracting and curating articles.
@@ -24,4 +25,4 @@ Also, it provides various visual data(e.g. word cloud, graphs) according to the 
 · (planned) Analysis of news article tendency according to positive or negative word ratio.
 
 # Target Development Language
-Python
+Python .
