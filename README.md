@@ -26,3 +26,22 @@ Also, it provides various visual data(e.g. word cloud, graphs) according to the 
 
 # Target Development Language
 Python .
+
+# Requirments 
+
+# How to use
+· get articles text
+```python
+from newspaper import Article
+~~~
+```
+· get keywords
+```python
+import newspaper
+from newspaper import Article
+~~~
+```
+· summarizing news
+```python
+print('Hello, world!)
+```
