@@ -25,4 +25,4 @@ Also, it provides various visual data(e.g. word cloud, graphs) according to the 
 · (planned) Analysis of news article tendency according to positive or negative word ratio.
 
 # Target Development Language
-Python
+Python .
