@@ -31,3 +31,51 @@
 
 # Target Development Language
 Python .
+
+# How to use
+### 1. GitHub repository 복제
+  ```
+  https://github.com/rmakerck37/SqueezeNews.git
+  ```
+  
+### 2. Dependencies 설치
+  ```
+  pip install -r requirements.txt
+  ```
+  
+### 3. 코드 실행
+  
+  - ulr 가져오기
+  ```python
+  import news_url_import
+  
+  keyword = '금값'
+  num = 10
+  dictUrl = news_url_import.news_url_import(keyword, num)
+ 
+  ```
+  
+  - 기사 전문 불러오기
+  ```python
+  import news_text
+  
+  url = dictUrl[0]['url']
+  myText = news_text.text_extraction(url)
+  print(myText)
+  ```
+  - 키워드 추출
+  ```python
+  import news_keyword
+  
+  myKeyword = news_keyword.get_keyword(url,'ko')
+  print(myKeyword)
+  
+  ```
+  - 기사 요약
+  ```python
+  import news_summarization
+  
+  mySummary = news_summarization.summarize(text=myText, max_sents=5)
+ 
+  ```
+ 
