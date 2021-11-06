@@ -31,17 +31,19 @@ Also, it provides various visual data(e.g. word cloud, graphs) according to the 
 Python .
 
 # How to use
-- Clone GitHub repository
+### 1. Clone GitHub repository
   ```
   https://github.com/rmakerck37/SqueezeNews.git
   ```
   
-- Install Dependencies
+### 2. Install Dependencies
   ```
   pip install -r requirements.txt
   ```
 
-- Get ulrs
+### 3. Run code
+  
+  - Get ulrs
   ```python
   import news_url_import
   
@@ -51,7 +53,7 @@ Python .
  
   ```
   
-- Get article texts
+  - Get article texts
   ```python
   import news_text
   
@@ -59,7 +61,8 @@ Python .
   myText = news_text.text_extraction(url)
   print(myText)
   ```
-- Get keywords
+  
+  - Get keywords
   ```python
   import news_keyword
   
@@ -67,7 +70,8 @@ Python .
   print(myKeyword)
   
   ```
-- Summarizing news
+  
+  - Summarizing news
   ```python
   import news_summarization
   
