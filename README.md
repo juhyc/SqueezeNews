@@ -1,4 +1,6 @@
 # SqueezeNews 📖
+
+<p align="right"><b>English</b> |    <a href="https://github.com/rmakerck37/SqueezeNews/blob/M1NSIK-KIM/README_ko.md">한국어</a><p>
 In today's modern society, a large amount of news is poured out in various fields such as politics, the economy, and society. There is no time to read all these vast amounts of news accumulated every day.
 A function that summarizes only the core of the article and shows it at a glance can save time for busy modern people and it will help them easily identify trends.
 
