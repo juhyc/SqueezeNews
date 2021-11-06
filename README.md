@@ -8,6 +8,7 @@ A function that summarizes only the core of the article and shows it at a glance
 - [Python 3.8.2](https://www.python.org/downloads/release/python-382/)
 - [Newspaper3k 0.2.8](https://github.com/codelucas/newspaper)
 - [nltk 3.6.5](https://www.nltk.org/)
+- [beautifulsoup 4.8.1](https://beautiful-soup-4.readthedocs.io/en/latest/)
 
 # Mission Statement 📝
 The ‘SqueezeNews’ project develops open-source software for extracting and curating articles.
