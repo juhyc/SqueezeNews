@@ -3,6 +3,7 @@ from newspaper import Article
 from newspaper.api import languages
 import nltk
 nltk.download('punkt')
+from news_url_import import news_url_import
 
 # 단어의 빈도수를 기반으로 10개의 키워드를 반환.
 
@@ -15,7 +16,8 @@ def get_keyword(url, language):
     keywords = article.keywords
     return keywords[:10]
 
-#test
-# mykeyword = news_keyword('https://news.naver.com/main/read.naver?mode=LSD&mid=shm&sid1=102&oid=417&aid=0000749254','ko')
+# # test
+# news_dict = news_url_import('강아지',10)
+# news_url =news_dict[2]['url']
+# mykeyword = get_keyword(news_url,'ko')
 # print(mykeyword)
-
