@@ -43,7 +43,7 @@ Python .
 
 ### 3. Run code
   
-  - Get ulrs
+  - Get urls
   ```python
   import news_url_import
   
