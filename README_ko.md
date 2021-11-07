@@ -79,7 +79,7 @@ Python .
  
   ```
  
-  # License
+  # License 🚩
   Copyright © 2021 [rmakerck37](https://github.com/rmakerck37).
   
   이 프로젝트는 [Apache-2.0 License](https://github.com/rmakerck37/SqueezeNews/blob/main/LICENSE)와 함께합니다.
