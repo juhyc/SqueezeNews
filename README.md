@@ -30,7 +30,7 @@ Also, it provides various visual data(e.g. word cloud, graphs) according to the 
 # Target Development Language
 Python .
 
-# How to use
+# How to use ✍️
 ### 1. Clone GitHub repository
   ```
   https://github.com/rmakerck37/SqueezeNews.git
@@ -79,7 +79,7 @@ Python .
  
   ```
  
-  # License
+  # License 🚩
   Copyright © 2021 [rmakerck37](https://github.com/rmakerck37).
   
   This project is available under the [Apache-2.0 License](https://github.com/rmakerck37/SqueezeNews/blob/main/LICENSE).
