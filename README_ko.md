@@ -1,6 +1,6 @@
 # SqueezeNews 📖
 
-<p align="right"><a href="https://github.com/rmakerck37/SqueezeNews">English</a> |    <b>한국어</b><p>
+<p align="center"><a href="https://github.com/rmakerck37/SqueezeNews">🇺🇸 English</a> |    <b>🇰🇷 한국어</b><p>
 오늘날의 현대 사회에서는 정치, 경제, 그리고 사회와 같은 다양한 분야에서 많은 양의 뉴스가 쏟아진다. 사람들은 매일 축적되는 방대한 양의 뉴스를 전부 읽을 시간이 없다.
 기사의 핵심만 요약해 한눈에 보여주는 기능은 바쁜 현대인들에게 시간을 절약할 수 있고 트렌드를 쉽게 파악할 수 있도록 도와줄 것이다.
 
@@ -79,3 +79,7 @@ Python .
  
   ```
  
+  # License
+  Copyright © 2021 [rmakerck37](https://github.com/rmakerck37).
+  
+  이 프로젝트는 [Apache-2.0 License](https://github.com/rmakerck37/SqueezeNews/blob/main/LICENSE)와 함께합니다.
