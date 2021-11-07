@@ -45,7 +45,7 @@ Python .
   
 ### 3. 코드 실행
   
-  - ulr 가져오기
+  - ur 가져오기
   ```python
   import news_url_import
   
