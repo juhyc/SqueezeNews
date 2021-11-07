@@ -32,7 +32,7 @@
 # Target Development Language
 Python .
 
-# How to use
+# How to use ✍️
 ### 1. GitHub repository 복제
   ```
   https://github.com/rmakerck37/SqueezeNews.git
