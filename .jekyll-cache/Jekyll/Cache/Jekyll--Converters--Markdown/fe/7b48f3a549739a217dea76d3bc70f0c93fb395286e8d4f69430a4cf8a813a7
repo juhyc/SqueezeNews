@@ -1,0 +1,21 @@
+I"å<ul>
+  <li>
+    <p>Brings up the full text of news articles.</p>
+  </li>
+  <li>
+    <p>Summarizes articles and extracting keywords.</p>
+  </li>
+  <li>
+    <p>Getting url from news article.</p>
+  </li>
+  <li>
+    <p>(planned) Creates a word cloud according to the frequency of keywords.</p>
+  </li>
+  <li>
+    <p>(planned) Search for similar articles.</p>
+  </li>
+  <li>
+    <p>(planned) Analysis of news article tendency according to positive or negative word ratio.</p>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,44 @@
+I"8
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/squeezenews_logo.png" alt="Squeeze News"></a>
+        
+        <a class="site-title" href="/">
+          Squeeze News
+          <span class="site-subtitle">Version 1.0</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/features/">Features</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contactus/">Contact Us</a>
+            </li><li class="masthead__menu-item">
+              <a href="/">Extra Menu Item 1</a>
+            </li><li class="masthead__menu-item">
+              <a href="/">Extra Menu Item 2</a>
+            </li><li class="masthead__menu-item">
+              <a href="/">Extra Menu Item Long Title</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+:ET
