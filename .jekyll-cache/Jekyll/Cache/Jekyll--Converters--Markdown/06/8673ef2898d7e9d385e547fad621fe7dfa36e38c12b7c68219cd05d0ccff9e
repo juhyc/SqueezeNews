@@ -1,4 +1,4 @@
-I"[9<p>These are gallery tests for image wrapped in <code class="language-plaintext highlighter-rouge">&lt;figure&gt;</code> elements.</p>
+I"a8<p>These are gallery tests for image wrapped in <code class="language-plaintext highlighter-rouge">&lt;figure&gt;</code> elements.</p>
 
 <p>To place a gallery add the necessary YAML Front Matter:</p>
 
@@ -29,74 +29,74 @@
 <figure class="third ">
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 1 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 1" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 1 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 1" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 2 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 2 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 3 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 3" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 3 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 3" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 4 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 4" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 4 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 4" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 5 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 5" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 5 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 5" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 6 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 6" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 6 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 6" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 7 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 7" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 7 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 7" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 8 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 8" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 8 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 8" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 9 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 9" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 9 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 9" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 10 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 10" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 10 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 10" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 11 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 11" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 11 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 11" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 12 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 12" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 12 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 12" />
       </a>
     
   
@@ -158,11 +158,11 @@
 <figure class="half full">
   
     
-      <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+      <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
     
   
     
-      <img src="/test/assets/images/unsplash-gallery-image-4-th.jpg" alt="placeholder image 4" />
+      <img src="/assets/images/unsplash-gallery-image-4-th.jpg" alt="placeholder image 4" />
     
   
   
@@ -179,74 +179,74 @@
 <figure class="half ">
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 1 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 1" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 1 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 1" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 2 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 2 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 3 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 3" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 3 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 3" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 4 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 4" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 4 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 4" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 5 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 5" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 5 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 5" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 6 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 6" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 6 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 6" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 7 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 7" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 7 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 7" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 8 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 8" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 8 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 8" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 9 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 9" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 9 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 9" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-1.jpg" title="Image 10 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 10" />
+      <a href="/assets/images/unsplash-gallery-image-1.jpg" title="Image 10 title caption">
+          <img src="/assets/images/unsplash-gallery-image-1-th.jpg" alt="placeholder image 10" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-2.jpg" title="Image 11 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 11" />
+      <a href="/assets/images/unsplash-gallery-image-2.jpg" title="Image 11 title caption">
+          <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 11" />
       </a>
     
   
     
-      <a href="/test/assets/images/unsplash-gallery-image-3.jpg" title="Image 12 title caption">
-          <img src="/test/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 12" />
+      <a href="/assets/images/unsplash-gallery-image-3.jpg" title="Image 12 title caption">
+          <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="placeholder image 12" />
       </a>
     
   

@@ -1,30 +1,30 @@
-I"£
+I"v
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-          <a class="site-logo" href="/test/"><img src="/test/assets/images/apple-touch-icon.png" alt="Custom Title"></a>
+          <a class="site-logo" href="/"><img src="/assets/images/apple-touch-icon.png" alt="Custom Title"></a>
         
-        <a class="site-title" href="/test/">
+        <a class="site-title" href="/">
           Custom Title
           <span class="site-subtitle">Development Test Site</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="https://mmistakes.github.io/minimal-mistakes/about/">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/year-archive/">Posts</a>
+              <a href="/year-archive/">Posts</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/collection-archive/">Collections</a>
+              <a href="/collection-archive/">Collections</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/sitemap/">Sitemap</a>
+              <a href="/sitemap/">Sitemap</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/">Extra Menu Item 1</a>
+              <a href="/">Extra Menu Item 1</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/">Extra Menu Item 2</a>
+              <a href="/">Extra Menu Item 2</a>
             </li><li class="masthead__menu-item">
-              <a href="/test/">Extra Menu Item Long Title</a>
+              <a href="/">Extra Menu Item Long Title</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
