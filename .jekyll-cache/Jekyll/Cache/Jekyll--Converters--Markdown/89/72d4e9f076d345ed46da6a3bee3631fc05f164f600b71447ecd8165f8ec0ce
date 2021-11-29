@@ -1,0 +1,10 @@
+I"ï<p><strong>Get_keyword</strong> is a function of extracting keywords for news articles through url addresses. You can get the address yourself or extract <code class="language-plaintext highlighter-rouge">url</code> using the <strong>news_url_import</strong> function.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s">news_keyword.get_keyword(url,'ko')</span>
+</code></pre></div></div>
+
+<p class="notice--info"><strong>Note:</strong> There are a total of five languages available. <code class="language-plaintext highlighter-rouge">ko</code><code class="language-plaintext highlighter-rouge">en</code><code class="language-plaintext highlighter-rouge">ja</code><code class="language-plaintext highlighter-rouge">zh</code><code class="language-plaintext highlighter-rouge">es</code></p>
+
+<p>Use the get_keyword method to bring news keywords. Set the url of the news <code class="language-plaintext highlighter-rouge">url</code> and the language of the news <code class="language-plaintext highlighter-rouge">ko</code>,<code class="language-plaintext highlighter-rouge">en</code> to the parameter value of the method. Returns 10 keywords based on the frequency of words exposed to the news.</p>
+
+:ET

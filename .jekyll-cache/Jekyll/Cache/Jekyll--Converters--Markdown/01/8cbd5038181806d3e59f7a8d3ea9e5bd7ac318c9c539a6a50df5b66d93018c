@@ -1,0 +1,7 @@
+I"<p><strong>Text_extraction</strong> is a function of extracting text from news articles through url addresses. You can get the address yourself or extract <code class="language-plaintext highlighter-rouge">url</code> using the <strong>news_url_import</strong> function.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s">news_text.text_extraction(url)</span>
+</code></pre></div></div>
+
+<p>Use the <strong>text_extraction</strong> method to bring news full text. The method accesses news articles through <code class="language-plaintext highlighter-rouge">url</code> and returns the full text of the news. The full text of the news will be returned in a single paragraph, a form in which the opening text has been removed.</p>
+:ET

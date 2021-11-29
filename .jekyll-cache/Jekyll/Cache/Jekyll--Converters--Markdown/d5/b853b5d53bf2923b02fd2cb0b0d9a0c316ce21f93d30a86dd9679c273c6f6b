@@ -1,0 +1,7 @@
+I"”<p><strong>Summarize</strong> is a function that summarizes the text of a news article. This function is a key function of <strong>SqueezeNews</strong>. You can simply summarize the news that is too long to read. <code class="language-plaintext highlighter-rouge">Text</code> can be extracted through the <strong>text_extraction</strong> function.</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s">news_summarization.summarize(text, max_sents)</span>
+</code></pre></div></div>
+
+<p>Use the <strong>summarize</strong> method to summarize news text. Put the full text of the news article brought in <strong>text_extraction</strong> method into the <strong>summarize</strong> function. It is possible to select how many sentences to summarize through the parameter <code class="language-plaintext highlighter-rouge">max_sents</code>. (default = 5)</p>
+:ET

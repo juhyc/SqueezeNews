@@ -1,0 +1,11 @@
+I"L<p>On November 7, 2021, the 0.0.1 version of Squeeze News was released.</p>
+
+<p>Implementing the basic functions of Squeeze News</p>
+
+<ul>
+  <li>add function of getting news url</li>
+  <li>add function of getting news text</li>
+  <li>add function of getting news keywords</li>
+  <li>add function of summarizing news text</li>
+</ul>
+:ET

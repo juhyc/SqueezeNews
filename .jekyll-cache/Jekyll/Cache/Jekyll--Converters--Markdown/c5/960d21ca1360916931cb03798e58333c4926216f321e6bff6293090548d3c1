@@ -1,0 +1,2 @@
+I"<p><strong>Get_keyword</strong> is a function of extracting keywords for news articles through url addresses. You can get the address yourself or extract <code class="language-plaintext highlighter-rouge">url</code> using the <strong>news_url_import</strong> function.</p>
+:ET
