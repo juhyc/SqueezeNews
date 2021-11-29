@@ -134,7 +134,6 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
     verbal_expressions (0.1.5)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
@@ -145,7 +144,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll-algolia (~> 1.0)
   minimal-mistakes-jekyll!
-  wdm (~> 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH

@@ -10,17 +10,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Squeeze News"
+title                    : "SqueezeNews"
 title_separator          : "-"
 subtitle                 : "Version 1.0"
-name                     : "Squeeze News"
+name                     : "SqueezeNews"
 description              : "A function that summarizes only the core of the article and shows it at a glance can save time for busy modern people and it will help them easily identify trends"
 url                      : "https://rmakerck37.github.io/SqueezeNews/"
 baseurl                  : #"/test"
 repository               : "rmakerck37/SqueezeNews"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/squeezenews_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Squeeze News" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "SqueezeNews" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -89,37 +89,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Squeeze News"
+  name             : "SqueezeNews"
   avatar           : "assets/images/squeezenews_logo.png"
   bio              : "A function that summarizes only the core of the article and shows it at a glance can save time for busy modern people and it will help them easily identify trends"
-  location         : "Republic of Korea"
+  location         : "Republic of Korea, Seoul"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
       url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rmakerck37/SqueezeNews"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/rmakerck37/SqueezeNews"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 
 # Reading Files
