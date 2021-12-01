@@ -94,9 +94,9 @@ author:
   bio              : "A function that summarizes only the core of the article and shows it at a glance can save time for busy modern people and it will help them easily identify trends"
   location         : "Republic of Korea, Seoul"
   links:
-    - label: "Your Website"
+    - label: "Readthedocs"
       icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
+      url: "https://squeezenews.readthedocs.io/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
